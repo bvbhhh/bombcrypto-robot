@@ -532,7 +532,3 @@ if __name__ == '__main__':
 #cv2.imshow('img',sct_img)
 #cv2.waitKey()
 
-# colocar o botao em pt
-# soh resetar posiçoes se n tiver clickado em newmap em x segundos
-
-
